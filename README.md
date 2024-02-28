@@ -1,3 +1,2 @@
 [![GitHub's Super Linter](https://github.com/ICD20-Digital-Tech-LoganC/Unit1-07-HTML-JS-/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICD20-Digital-Tech-LoganC/Unit1-07-HTML-JS-/actions)
 [![Run on Repl.it](https://repl.it/badge/github/ICD20-Digital-Tech-LoganC/Unit1-07-HTML-JS-)](https://repl.it/github/ICD20-Digital-Tech-LoganC/Unit1-07-HTML-JS-)
-This site can be found at: [https://ICD20-Digital-Tech-LoganC.github.io/Unit1-07-HTML-JS-](https://ICD20-Digital-Tech-LoganC.github.io/Unit1-07-HTML-JS-)
